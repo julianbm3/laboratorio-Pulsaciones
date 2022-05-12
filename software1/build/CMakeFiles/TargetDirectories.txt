@@ -1,0 +1,3 @@
+/home/alse/Documents/Tercio_3/software1/build/CMakeFiles/rebuild_cache.dir
+/home/alse/Documents/Tercio_3/software1/build/CMakeFiles/software1.bin.dir
+/home/alse/Documents/Tercio_3/software1/build/CMakeFiles/edit_cache.dir

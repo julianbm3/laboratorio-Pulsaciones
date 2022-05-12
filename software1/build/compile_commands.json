@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/alse/Documents/Tercio_3/software1/build",
+  "command": "/usr/bin/c++   -I/home/alse/Documents/Tercio_3/software1/include  -g   -o CMakeFiles/software1.bin.dir/src/config_tty.cpp.o -c /home/alse/Documents/Tercio_3/software1/src/config_tty.cpp",
+  "file": "/home/alse/Documents/Tercio_3/software1/src/config_tty.cpp"
+},
+{
+  "directory": "/home/alse/Documents/Tercio_3/software1/build",
+  "command": "/usr/bin/c++   -I/home/alse/Documents/Tercio_3/software1/include  -g   -o CMakeFiles/software1.bin.dir/src/funciones_gr2.cpp.o -c /home/alse/Documents/Tercio_3/software1/src/funciones_gr2.cpp",
+  "file": "/home/alse/Documents/Tercio_3/software1/src/funciones_gr2.cpp"
+},
+{
+  "directory": "/home/alse/Documents/Tercio_3/software1/build",
+  "command": "/usr/bin/c++   -I/home/alse/Documents/Tercio_3/software1/include  -g   -o CMakeFiles/software1.bin.dir/src/main.cpp.o -c /home/alse/Documents/Tercio_3/software1/src/main.cpp",
+  "file": "/home/alse/Documents/Tercio_3/software1/src/main.cpp"
+},
+{
+  "directory": "/home/alse/Documents/Tercio_3/software1/build",
+  "command": "/usr/bin/c++   -I/home/alse/Documents/Tercio_3/software1/include  -g   -o CMakeFiles/software1.bin.dir/src/participant.cpp.o -c /home/alse/Documents/Tercio_3/software1/src/participant.cpp",
+  "file": "/home/alse/Documents/Tercio_3/software1/src/participant.cpp"
+}
+]
